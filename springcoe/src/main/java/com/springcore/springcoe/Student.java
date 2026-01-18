@@ -24,12 +24,12 @@ public class Student {
 	}
 	
 	
-	public Student(String studrntName, int studentId, String studentAddress) {
-		super();
-		this.studentName = studrntName;
-		this.studentId = studentId;
-		this.studentAddress = studentAddress;
-	}
+//	public Student(String studrntName, int studentId, String studentAddress) {
+//		super();
+//		this.studentName = studrntName;
+//		this.studentId = studentId;
+//		this.studentAddress = studentAddress;
+//	}
 	public Student() {
 		super();
 		// TODO Auto-generated constructor stub
